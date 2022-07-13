@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbdTexUtillss/static/css/main.073c9b0a.css",
+    "main.js": "/AbdTexUtillss/static/js/main.12878f52.js",
+    "static/js/787.f2b5ad9a.chunk.js": "/AbdTexUtillss/static/js/787.f2b5ad9a.chunk.js",
+    "index.html": "/AbdTexUtillss/index.html",
+    "main.073c9b0a.css.map": "/AbdTexUtillss/static/css/main.073c9b0a.css.map",
+    "main.12878f52.js.map": "/AbdTexUtillss/static/js/main.12878f52.js.map",
+    "787.f2b5ad9a.chunk.js.map": "/AbdTexUtillss/static/js/787.f2b5ad9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12878f52.js"
+  ]
+}
